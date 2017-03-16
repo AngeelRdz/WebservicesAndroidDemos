@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>yo</nombre>
+		<twitter>yo+</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>tu</nombre>
+		<twitter>tu+</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>el</nombre>
+		<twitter>el+</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>ella</nombre>
+		<twitter>ella+</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>5</usuarioid>
+		<nombre>nosotros</nombre>
+		<twitter>nosotros+</twitter>
+	</usuario>
+</usuarios>
